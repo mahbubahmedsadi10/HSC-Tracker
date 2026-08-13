@@ -2,8 +2,6 @@
 
 A responsive, web-based study management dashboard designed to help Bangladeshi Higher Secondary Certificate (HSC) Science students track, organize, and optimize their preparation across the full National Curriculum and Textbook Board (NCTB) syllabus.
 
-🔗 **Live Interactive Demo:** [https://mahbubahmedsadi10.github.io/HSC-Tracker]([https://mahbubahmedsadi10.github.io/HSC-Tracker])
-
 ---
 
 ## 🌟 Overview & Problem Statement
